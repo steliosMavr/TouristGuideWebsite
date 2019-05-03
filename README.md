@@ -1,4 +1,4 @@
-# TouristGuideWebsite
+# Tourist Guide Website
 
 This website was my final project for my php class written with php,css,html5,bootstrap,mysql.The purpose of this project is to help tourists organize theirs vacation in a specific country.The architecture of this project is base in the mvc pattern.
 

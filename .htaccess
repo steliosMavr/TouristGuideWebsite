@@ -1,0 +1,4 @@
+
+RewriteEngine on
+RewriteRule ^results/(.*)/(.*)/(.*)$ booking/results.php?mode=$1&generated=$2&pass=$3
+RewriteRule ^([a-zA-Z0-9\-\_\/]*)$ Webroot/$1 [QSA,L]
